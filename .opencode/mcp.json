@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "zotero": {
+      "command": "npx",
+      "args": ["-y", "@nealcaren/mcp-zotero"],
+      "env": {
+        "ZOTERO_LOCAL": "true",
+        "ZOTERO_LOCAL_KEY": "待填写",
+        "ZOTERO_LIBRARY_ID": "",
+        "ZOTERO_ATTACHMENTS_DIR": "C:/Users/Lenovohym/Zotero"
+      }
+    }
+  }
+}
