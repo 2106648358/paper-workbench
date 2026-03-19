@@ -59,9 +59,9 @@
 % ==================== 图表标题格式 ====================
 \DeclareCaptionFont{cnlabelfont}{\heiti\sihao\bfseries}
 \DeclareCaptionFont{cntextfont}{\heiti\xiaosi}
-\DeclareCaptionLabelFormat{myformat}{#1#2：}
-\captionsetup[table]{labelformat=myformat,labelfont=cnlabelfont,textfont=cntextfont}
-\captionsetup[figure]{labelformat=myformat,labelfont=cnlabelfont,textfont=cntextfont}
+\DeclareCaptionLabelSeparator{cncolon}{：}
+\captionsetup[table]{labelsep=cncolon,labelfont=cnlabelfont,textfont=cntextfont}
+\captionsetup[figure]{labelsep=cncolon,labelfont=cnlabelfont,textfont=cntextfont}
 \renewcommand{\tablename}{表}
 \renewcommand{\figurename}{图}
 
@@ -83,14 +83,16 @@
         
         \vspace{3cm}
         
-        \begin{center}
+        \hspace{2cm}
+        \begin{minipage}{0.45\textwidth}
+            \raggedright
             \huawenzhongsong\sanhao
             院\qquad 系：#2 \\[1em]
             专\qquad 业：#3 \\[1em]
             姓\qquad 名：#4 \\[1em]
             学\qquad 号：#5 \\[1em]
             指导教师：#6
-        \end{center}
+        \end{minipage}
         
         \vfill
         
