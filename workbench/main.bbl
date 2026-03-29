@@ -1,55 +1,47 @@
-\begin{thebibliography}{7}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{#1}
-\expandafter\ifx\csname urlstyle\endcsname\relax\else
-  \urlstyle{same}\fi
-\expandafter\ifx\csname href\endcsname\relax
-  \DeclareUrlCommand\doi{\urlstyle{rm}}
-  \def\eprint#1#2{#2}
-\else
-  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
-  \let\eprint\href
-\fi
+\begin{thebibliography}{1}
 
-\bibitem[滕思佳(2012)]{teng2012}
-滕思佳.
-\newblock 技能主导类表现难美性项群运动项目的特征研究\allowbreak[D].
-\newblock 武汉体育学院, 2012.
+\bibitem{gandevia2001}
+S.~C. Gandevia.
+\newblock Spinal and supraspinal factors in human muscle fatigue.
+\newblock {\em Physiological Reviews}, 81(4):1725--1789, 2001.
 
-\bibitem[{International Cheer Union}(2025)]{icu2025}
+\bibitem{gibala2012}
+Martin~J. Gibala, Jonathan~P. Little, Mark~J. Macdonald, and John~A. Hawley.
+\newblock Physiological adaptations to low-volume, high-intensity interval
+  training in health and disease.
+\newblock {\em The Journal of Physiology}, 590(5):1077--1084, 2012.
+
+\bibitem{icu2025}
 {International Cheer Union}.
-\newblock Icu rules and regulations\allowbreak[Z].
-\newblock 2025.
+\newblock Icu rules and regulations.
+\newblock Standard, 2025.
 
-\bibitem[Gandevia(2001)]{gandevia2001}
-GANDEVIA S~C.
-\newblock Spinal and supraspinal factors in human muscle fatigue\allowbreak[J/OL].
-\newblock Physiological Reviews, 2001, 81\allowbreak (4): 1725-1789.
-\newblock DOI: \doi{10.1152/physrev.2001.81.4.1725}.
+\bibitem{strepp2024}
+Tilmann Strepp, Julia~C. Blumkaitis, Mahdi Sareban, Thomas~Leonhard Stöggl,
+  and Nils Haller.
+\newblock Training intensity distribution of a 7-day hiit shock microcycle: Is
+  time in the "red zone" crucial for maximizing endurance performance? a
+  randomized controlled trial.
+\newblock {\em Sports Medicine - Open}, 10(1):97, 2024.
 
-\bibitem[魏佳琳，霍洪峰(2023)]{weijialin2023}
-魏佳琳，霍洪峰.
-\newblock 运动疲劳对单腿落地神经肌肉控制策略及动态稳定性的影响\allowbreak[C/OL]//\allowbreak
-第十三届全国体育科学大会论文摘要集——专题报告 (运动生物力学分会).
-\newblock 河北师范大学体育学院, 2023: 229-232.
-\newblock DOI: \doi{10.26914/c.cnkihy.2023.061429}.
+\bibitem{teng2012}
+滕思佳.
+\newblock 技能主导类表现难美性项群运动项目的特征研究.
+\newblock Master's thesis, 武汉体育学院, 2012.
 
-\bibitem[Gibala et~al.(2012)Gibala, Little, Macdonald, and Hawley]{gibala2012}
-GIBALA M~J, LITTLE J~P, MACDONALD M~J, et~al.
-\newblock Physiological adaptations to low-volume, high-intensity interval training in health and disease\allowbreak[J/OL].
-\newblock The Journal of Physiology, 2012, 590\allowbreak (5): 1077-1084.
-\newblock DOI: \doi{10.1113/jphysiol.2011.224725}.
-
-\bibitem[Strepp et~al.(2024)Strepp, Blumkaitis, Sareban, Stöggl, and Haller]{strepp2024}
-STREPP T, BLUMKAITIS J~C, SAREBAN M, et~al.
-\newblock Training intensity distribution of a 7-day hiit shock microcycle: Is time in the "red zone" crucial for maximizing endurance performance? a randomized controlled trial\allowbreak[J/OL].
-\newblock Sports Medicine - Open, 2024, 10\allowbreak (1): 97.
-\newblock DOI: \doi{10.1186/s40798-024-00761-1}.
-
-\bibitem[陈伟，曹洁(2021)]{chen2021}
+\bibitem{chen2021}
 陈伟，曹洁.
-\newblock 高强度间歇训练对高水平现代五项运动员耐力、力量和爆发力的影响\allowbreak[J/OL].
-\newblock 体育科技, 2021, 42\allowbreak (06): 17-20.
-\newblock DOI: \doi{10.14038/j.cnki.tykj.2021.06.009}.
+\newblock
+  高强度间歇训练对高水平现代五项运动员耐力、力量和爆发力的影响.
+\newblock {\em 体育科技}, 42(06):17--20, 2021.
+
+\bibitem{weijialin2023}
+魏佳琳，霍洪峰.
+\newblock
+  运动疲劳对单腿落地神经肌肉控制策略及动态稳定性的影响.
+\newblock In {\em
+  第十三届全国体育科学大会论文摘要集——专题报告
+  (运动生物力学分会)}, pages 229--232. 河北师范大学体育学院,
+  2023.
 
 \end{thebibliography}

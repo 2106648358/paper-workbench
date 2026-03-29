@@ -26,6 +26,7 @@
 \usepackage{subcaption}
 \usepackage{xcolor}
 \usepackage{indentfirst}
+\usepackage{gbt771}
 \usepackage{etoolbox}
 
 % ==================== 页面设置 ====================
@@ -682,7 +683,7 @@ Gibala 等（2012）的系统综述指出，低容量 HIIT 可诱导线粒体生
 \cleardoublepage
 \section*{参考文献}
 \addcontentsline{toc}{section}{参考文献}
-\bibliographystyle{plain}
+\bibliographystyle{gbt771-numerical}
 \bibliography{references}
 
 % ==================== 附录 ====================

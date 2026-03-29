@@ -26,6 +26,7 @@
 \usepackage{subcaption}
 \usepackage{xcolor}
 \usepackage{indentfirst}
+
 \usepackage{etoolbox}
 
 % ==================== 页面设置 ====================
@@ -309,15 +310,15 @@
 	\label{tab:training-plan}
 	\begin{tabular}{lll}
 		\toprule
-		项目   & 实验组（专项 HIIT）   & 对照组（400 米间歇跑）  \\
+		项目   & 实验组（专项 HIIT）                     & 对照组（400 米间歇跑）                    \\
 		\midrule
-		运动模式 & 专项动作循环         & 400 米跑道跑       \\
-		单次时长 & 30 秒运动+30 秒间歇  & 400 米跑+等时间间歇   \\
+		运动模式 & 专项动作循环                           & 400 米跑道跑                         \\
+		单次时长 & 30 秒运动+30 秒间歇                    & 400 米跑+等时间间歇                     \\
 		强度控制 & 心率$\ge$170 次/分 & 心率$\ge$170 次/分 \\
-		组数   & 8-10 组         & 6-8 组          \\
-		总时长  & 约 15 分钟        & 约 15 分钟        \\
-		频率   & 每周 3 次，隔天进行    & 每周 3 次，隔天进行    \\
-		周期   & 6 周            & 6 周            \\
+		组数   & 8-10 组                           & 6-8 组                            \\
+		总时长  & 约 15 分钟                          & 约 15 分钟                          \\
+		频率   & 每周 3 次，隔天进行                      & 每周 3 次，隔天进行                      \\
+		周期   & 6 周                              & 6 周                              \\
 		\bottomrule
 	\end{tabular}
 \end{table}
@@ -682,7 +683,7 @@ Gibala 等（2012）的系统综述指出，低容量 HIIT 可诱导线粒体生
 \cleardoublepage
 \section*{参考文献}
 \addcontentsline{toc}{section}{参考文献}
-\bibliographystyle{plain}
+% \bibliographystyle{unsrt}
 \bibliography{references}
 
 % ==================== 附录 ====================

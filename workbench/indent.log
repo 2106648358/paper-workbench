@@ -1,0 +1,42 @@
+INFO:  ANSI Code Page: 936
+INFO:  latexindent.exe version 3.24.7, 2025-08-15, a script to indent .tex files
+       latexindent.exe lives here: D:/DevTools/Latex/texlive/2026/bin/windows/
+       Mon Mar 23 08:36:34 2026
+       Filename: F:/paper/workbench/main.tex
+INFO:  Processing switches:
+       -s|--silent: Silent mode active (you have used either -s or --silent)
+       -w|--overwrite: Overwrite mode active, will make a back up before overwriting
+INFO:  Directory for backup files and log file indent.log:
+       F:\paper\workbench
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from D:/DevTools/Latex/texlive/2026/bin/windows/defaultSettings.yaml
+       Reading defaultSettings.yaml (2nd attempt) from D:/DevTools/Latex/texlive/2026/bin/windows/../../texmf-dist/scripts/latexindent/defaultSettings.yaml
+       and then, if necessary, D:/DevTools/Latex/texlive/2026/bin/windows/LatexIndent/defaultSettings.yaml
+INFO:  YAML reading settings
+       Home directory is C:\Users\EDY
+       latexindent.pl didn't find indentconfig.yaml or .indentconfig.yaml
+       see all possible locations: https://latexindentpl.readthedocs.io/en/latest/sec-appendices.html#indentconfig-options)
+INFO:  Backup procedure (-w flag active):
+       F:\paper\workbench\main.bak0 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak1 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak2 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak3 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak4 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak5 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak6 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak7 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak8 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak9 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak10 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       F:\paper\workbench\main.bak11 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       Backing up F:/paper/workbench/main.tex to F:\paper\workbench\main.bak12...
+       F:/paper/workbench/main.tex will be overwritten after indentation
+INFO:  Phase 1: searching for objects
+INFO:  Phase 2: finding surrounding indentation
+INFO:  Phase 3: indenting objects
+INFO:  Phase 4: final indentation check
+INFO:  Output routine:
+       Overwriting file F:/paper/workbench/main.tex
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl
