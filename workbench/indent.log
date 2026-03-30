@@ -1,7 +1,7 @@
 INFO:  ANSI Code Page: 936
 INFO:  latexindent.exe version 3.24.7, 2025-08-15, a script to indent .tex files
        latexindent.exe lives here: D:/DevTools/Latex/texlive/2026/bin/windows/
-       Mon Mar 30 11:52:09 2026
+       Mon Mar 30 18:10:03 2026
        Filename: D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex
 INFO:  Processing switches:
        -s|--silent: Silent mode active (you have used either -s or --silent)
@@ -32,7 +32,24 @@ INFO:  Backup procedure (-w flag active):
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak12 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak13 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak14 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       Backing up D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex to D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak15...
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak15 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak16 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak17 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak18 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak19 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak20 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak21 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak22 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak23 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak24 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak25 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak26 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak27 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak28 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak29 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak30 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak31 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       Backing up D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex to D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak32...
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex will be overwritten after indentation
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation

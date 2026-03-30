@@ -32,7 +32,6 @@
 \setlength{\heavyrulewidth}{1.5pt}   % 顶线和底线粗细
 \setlength{\lightrulewidth}{0.75pt}  % 栏目线粗细
 \setlength{\cmidrulewidth}{0.4pt}    % \cmidrule 粗细
-\newcommand{\doubleline}{\midrule[0.75pt]}  % 双竖细线（用于过宽表格分隔）
 
 % ==================== 页面设置 ====================
 \geometry{left=30mm, right=25mm, top=30mm, bottom=25mm}
@@ -220,8 +219,10 @@
 		\midrule
 		爆发性技术 & 屈体分腿跳    & 腾空高度$\ge$50 cm     & 高度衰减、屈膝 \\
 		      &          & 开度$\ge$180$^\circ$ & 开度不足    \\
+		\midrule
 		控制性技术 & 阿拉 C 杠转体 & 位移$<$20 cm         & 重心不稳、掉落 \\
 		      &          & 连续$\ge$2 个 8 拍     & 圈数减少    \\
+		\midrule
 		表现性技术 & 行进间手位组合  & 发力感清晰              & 耸肩、拖沓   \\
 		\bottomrule
 	\end{tabular}
@@ -275,7 +276,7 @@
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/placeholder-figure-1.png}
-	\caption{实验流程图}
+	\caption{实验流程图：展示受试者筛选、随机分组、干预实施及测试评估的完整流程}
 	\label{fig:experiment-flow}
 \end{figure}
 
@@ -322,8 +323,10 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		爆发性技术  & 腾空高度 (cm)       & Kinovea 软件 & 追踪髋部垂直位移  \\
 		       & 双腿开度 ($^\circ$) & Kinovea 软件 & 量角器功能     \\
+		\midrule
 		控制性技术  & 位移距离 (cm)       & 地面标记尺      & 起止点距离     \\
 		       & 有效圈数            & 人工计数       & 动力腿不掉落    \\
+		\midrule
 		辅助生理指标 & 心率恢复率           & 心率表        & 运动后 1 min \\
 		       & RPE             & Borg 量表    & 主观报告      \\
 		\bottomrule
@@ -388,6 +391,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		实验组  & 52.3$\pm$4.1 & 254.2$\pm$8.5   & 18.5$\pm$3.2 & 16.2$\pm$1.1 \\
 		对照组  & 51.8$\pm$4.5 & 252.8$\pm$9.1   & 19.2$\pm$3.5 & 16.5$\pm$1.2 \\
+		\midrule
 		$t$值 & 0.258        & 0.354           & -0.456       & -0.582       \\
 		$P$值 & 0.800        & 0.727           & 0.654        & 0.567        \\
 		\bottomrule
@@ -410,6 +414,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		实验组  & 18.5$\pm$3.2 & 42.3$\pm$5.8 & 17.8$\pm$2.9 & 28.5$\pm$4.1$^{*\#}$ \\
 		对照组  & 19.2$\pm$3.5 & 43.1$\pm$6.2 & 18.9$\pm$3.1 & 40.5$\pm$5.5$^{*}$   \\
+		\midrule
 		$t$值 & -0.456       & -0.298       & -0.812       & -5.623               \\
 		$P$值 & 0.654        & 0.769        & 0.428        & $<0.001$             \\
 		\bottomrule
@@ -423,7 +428,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.85\textwidth]{figures/data-displacement.png}
-	\caption{两组阿拉 C 杠位移距离个体数据及均值比较（干预后-疲劳状态）}
+	\caption{两组阿拉 C 杠位移距离个体数据及均值比较（干预后-疲劳状态）：数据点表示个体受试者，横线表示均值，误差棒表示标准差}
 	\label{fig:data-displacement}
 \end{figure}
 
@@ -443,6 +448,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		实验组  & 52.3$\pm$4.1 & 43.5$\pm$3.8 & 53.8$\pm$3.9 & 49.2$\pm$3.2$^{*\#}$ \\
 		对照组  & 51.8$\pm$4.5 & 42.8$\pm$4.2 & 52.1$\pm$4.3 & 43.5$\pm$3.9$^{*}$   \\
+		\midrule
 		$t$值 & 0.258        & 0.387        & 0.932        & 3.587                \\
 		$P$值 & 0.800        & 0.703        & 0.364        & 0.002                \\
 		\bottomrule
@@ -461,6 +467,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		实验组  & 254.2$\pm$8.5 & 236.5$\pm$7.2 & 256.8$\pm$7.8 & 248.3$\pm$6.1$^{*\#}$ \\
 		对照组  & 252.8$\pm$9.1 & 234.8$\pm$8.5 & 253.5$\pm$8.9 & 236.2$\pm$7.8$^{*}$   \\
+		\midrule
 		$t$值 & 0.354         & 0.482         & 0.885         & 3.821                 \\
 		$P$值 & 0.727         & 0.635         & 0.388         & 0.001                 \\
 		\bottomrule
@@ -474,7 +481,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.85\textwidth]{figures/data-jump-height.png}
-	\caption{两组屈体分腿跳腾空高度个体数据及均值比较（干预后-疲劳状态）}
+	\caption{两组屈体分腿跳腾空高度个体数据及均值比较（干预后-疲劳状态）：数据点表示个体受试者，横线表示均值，误差棒表示标准差}
 	\label{fig:data-jump-height}
 \end{figure}
 
@@ -488,19 +495,23 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 	\centering
 	\caption{两组技术动作衰减率比较（\%, $\bar{x}\pm s$）}
 	\label{tab:decay-rate}
-	\begin{tabular}{lcccccc}
+	\begin{tabular}{lccc}
 		\toprule
-		\multirow{2}{*}{指标} & \multicolumn{3}{c}{实验组} & \multicolumn{3}{c}{对照组}                                                      \\
-		\cmidrule(lr){2-4} \cmidrule(lr){5-7}
-		                    & 干预前                     & 干预后                     & 变化率     & 干预前            & 干预后            & 变化率    \\
+		组别   & 干预前衰减率         & 干预后衰减率                & 变化率     \\
 		\midrule
-		腾空高度                & 16.8$\pm$2.5            & 8.5$\pm$1.8$^{*\#}$     & -49.4\% & 17.4$\pm$3.1   & 16.5$\pm$2.8   & -5.2\% \\
-		双腿开度                & 7.0$\pm$1.2             & 3.3$\pm$0.9$^{*\#}$     & -52.9\% & 7.1$\pm$1.5    & 6.8$\pm$1.3    & -4.2\% \\
-		转体位移                & 128.5$\pm$15.3          & 60.2$\pm$12.1$^{*\#}$   & -53.1\% & 125.8$\pm$18.2 & 118.5$\pm$16.5 & -5.8\% \\
+		\multicolumn{4}{l}{\textbf{实验组}}                        \\
+		腾空高度 & 16.8$\pm$2.5   & 8.5$\pm$1.8$^{*\#}$   & -49.4\% \\
+		双腿开度 & 7.0$\pm$1.2    & 3.3$\pm$0.9$^{*\#}$   & -52.9\% \\
+		转体位移 & 128.5$\pm$15.3 & 60.2$\pm$12.1$^{*\#}$ & -53.1\% \\
+		\midrule
+		\multicolumn{4}{l}{\textbf{对照组}}                        \\
+		腾空高度 & 17.4$\pm$3.1   & 16.5$\pm$2.8          & -5.2\%  \\
+		双腿开度 & 7.1$\pm$1.5    & 6.8$\pm$1.3           & -4.2\%  \\
+		转体位移 & 125.8$\pm$18.2 & 118.5$\pm$16.5        & -5.8\%  \\
 		\bottomrule
 	\end{tabular}
 	\par
-	\small 注：$^{*}$表示组内干预前后比较 $P<0.05$；$^{\#}$表示组间干预后比较 $P<0.05$。衰减率计算以正向指标下降为正，负向指标（位移）上升为正。
+	\small 注：衰减率计算以正向指标下降为正，负向指标（位移）上升为正。
 \end{table}
 
 如图\ref{fig:decay-trend}所示，各项技术动作衰减率的干预前后变化趋势清晰呈现。实验组各项指标衰减率均呈明显下降趋势，而对照组变化较小，表明专项 HIIT 训练对技术动作稳定性的显著改善效果。
@@ -508,7 +519,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/decay-trend.png}
-	\caption{两组技术动作衰减率变化趋势}
+	\caption{两组技术动作衰减率变化趋势：实线表示实验组，虚线表示对照组，圆形标记为干预前，方形标记为干预后}
 	\label{fig:decay-trend}
 \end{figure}
 
@@ -517,7 +528,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/group-comparison.png}
-	\caption{干预后组间核心指标对比}
+	\caption{干预后组间核心指标对比：柱状图表示均值，误差棒表示标准差，**表示组间差异显著（$P<0.01$）}
 	\label{fig:group-comparison}
 \end{figure}
 
@@ -535,6 +546,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 		\midrule
 		实验组  & 28.5$\pm$4.2 & 35.8$\pm$3.9$^{*\#}$ & 16.2$\pm$1.1 & 14.5$\pm$1.0$^{*\#}$ \\
 		对照组  & 27.8$\pm$4.5 & 30.2$\pm$4.1$^{*}$   & 16.5$\pm$1.2 & 15.8$\pm$1.1$^{*}$   \\
+		\midrule
 		$t$值 & 0.358        & 3.156                & -0.582       & -2.785               \\
 		$P$值 & 0.724        & 0.005                & 0.567        & 0.011                \\
 		\bottomrule
@@ -552,7 +564,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/correlation-heatmap.png}
-	\caption{各指标间 Pearson 相关系数热力图}
+	\caption{各指标间 Pearson 相关系数热力图：颜色深浅表示相关程度，红色为正相关，蓝色为负相关}
 	\label{fig:correlation-heatmap}
 \end{figure}
 

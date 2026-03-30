@@ -552,7 +552,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/correlation-heatmap.png}
-	\caption{各指标间 Pearson 相关系数热力图}
+	\caption{各指标间 Pearson 相关系数热力图：颜色深浅表示相关程度，红色为正相关，蓝色为负相关}
 	\label{fig:correlation-heatmap}
 \end{figure}
 

@@ -423,7 +423,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.85\textwidth]{figures/data-displacement.png}
-	\caption{两组阿拉 C 杠位移距离个体数据及均值比较（干预后-疲劳状态）}
+	\caption{两组阿拉 C 杠位移距离个体数据及均值比较（干预后-疲劳状态）：数据点表示个体受试者，横线表示均值，误差棒表示标准差}
 	\label{fig:data-displacement}
 \end{figure}
 
@@ -474,7 +474,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.85\textwidth]{figures/data-jump-height.png}
-	\caption{两组屈体分腿跳腾空高度个体数据及均值比较（干预后-疲劳状态）}
+	\caption{两组屈体分腿跳腾空高度个体数据及均值比较（干预后-疲劳状态）：数据点表示个体受试者，横线表示均值，误差棒表示标准差}
 	\label{fig:data-jump-height}
 \end{figure}
 
@@ -508,7 +508,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/decay-trend.png}
-	\caption{两组技术动作衰减率变化趋势}
+	\caption{两组技术动作衰减率变化趋势：实线表示实验组，虚线表示对照组，圆形标记为干预前，方形标记为干预后}
 	\label{fig:decay-trend}
 \end{figure}
 
@@ -517,7 +517,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/group-comparison.png}
-	\caption{干预后组间核心指标对比}
+	\caption{干预后组间核心指标对比：柱状图表示均值，误差棒表示标准差，**表示组间差异显著（$P<0.01$）}
 	\label{fig:group-comparison}
 \end{figure}
 
@@ -552,7 +552,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\textwidth]{figures/correlation-heatmap.png}
-	\caption{各指标间 Pearson 相关系数热力图}
+	\caption{各指标间 Pearson 相关系数热力图：颜色深浅表示相关程度，红色为正相关，蓝色为负相关}
 	\label{fig:correlation-heatmap}
 \end{figure}
 
