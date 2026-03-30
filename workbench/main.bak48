@@ -113,9 +113,9 @@
         {\heiti\erhao\bfseries 摘\quad 要}
     \end{center}
     \vspace{1em}
-    \par\huawenzhongsong\xiaosi\relax
+    \par\noindent\huawenzhongsong\xiaosi\relax
 }{%
-    \par\vspace{2em}
+    \vspace{2em}
     \noindent{\heiti\sihao\bfseries 关键词：}\huawenzhongsong\xiaosi
 }
 
@@ -125,9 +125,9 @@
         {\heiti\erhao\bfseries ABSTRACT}
     \end{center}
     \vspace{1em}
-    \par\xiaosi\relax
+    \par\noindent\xiaosi\relax
 }{%
-    \par\vspace{2em}
+    \vspace{2em}
     \noindent{\heiti\sihao\bfseries Keywords:}\xiaosi
 }
 
@@ -189,8 +189,9 @@
 	This study investigated the effects of a 6-week sport-specific high-intensity interval training program on technical performance in dance cheerleading athletes. A randomized controlled trial was conducted with 20 female collegiate dance cheerleading athletes randomly assigned to an experimental group receiving sport-specific HIIT or a control group performing 400m interval running. Both groups trained for 6 weeks. Outcome measures included jump height, leg angle, displacement distance during C-bar turns, technique decay rate, heart rate recovery, and rating of perceived exertion.
 
 	Post-intervention, the experimental group showed significant reductions in jump height decay rate from 16.8\% to 8.5\%, leg angle decay rate from 7.0\% to 3.3\%, and turn displacement distance from 42.3 cm to 28.5 cm, all significantly better than the control group. Heart rate recovery significantly improved and perceived exertion significantly decreased in the experimental group. Correlation analysis revealed a significant negative correlation between heart rate recovery improvement and jump height decay rate. The results indicate that sport-specific HIIT can significantly reduce technique decay rate in dance cheerleading athletes under fatigue, effectively improving fatigue-resistant explosive power and core control stability, validating the application of the Specific Adaptation to Imposed Demands principle in aesthetic sports training.
+
+	dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
 \end{abstracten}
-dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
 
 % ==================== 正文 ====================
 \cleardoublepage

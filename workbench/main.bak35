@@ -113,10 +113,11 @@
         {\heiti\erhao\bfseries 摘\quad 要}
     \end{center}
     \vspace{1em}
-    \par\huawenzhongsong\xiaosi\relax
+    \par\noindent\huawenzhongsong\xiaosi\relax
 }{%
-    \par\vspace{2em}
-    \noindent{\heiti\sihao\bfseries 关键词：}\huawenzhongsong\xiaosi
+    \vspace{2em}
+    \noindent{\heiti\sihao\bfseries 关键词：}
+    \huawenzhongsong\xiaosi
 }
 
 \newenvironment{abstracten}{%
@@ -125,10 +126,11 @@
         {\heiti\erhao\bfseries ABSTRACT}
     \end{center}
     \vspace{1em}
-    \par\xiaosi\relax
+    \par\noindent\xiaosi\relax
 }{%
-    \par\vspace{2em}
-    \noindent{\heiti\sihao\bfseries Keywords:}\xiaosi
+    \vspace{2em}
+    \noindent{\heiti\sihao\bfseries Keywords:}
+    \xiaosi
 }
 
 % ==================== 目录定制 ====================
@@ -175,25 +177,7 @@
 \tableofcontents
 \cleardoublepage
 
-% ==================== 中文摘要 ====================
-\begin{abstractcn}
-	本研究探究为期6周的专项高强度间歇训练对舞蹈啦啦操运动员技术动作的影响，验证专项HIIT相较于传统间歇跑训练的优势。采用随机对照实验设计，将20名女大学生舞蹈啦啦操运动员随机分为实验组和对照组各10人。实验组进行专项HIIT训练，对照组进行400米间歇跑，两组训练周期均为6周。测试指标包括屈体分腿跳腾空高度、双腿开度、阿拉C杠转体位移距离、技术动作衰减率、心率恢复率和主观疲劳度。
-
-	干预后，实验组疲劳状态下腾空高度衰减率从16.8\%降至8.5\%，双腿开度衰减率从7.0\%降至3.3\%，阿拉C杠转体位移距离从42.3 cm降至28.5 cm，均显著优于对照组。实验组心率恢复率显著提升，主观疲劳度显著降低。相关性分析显示，心率恢复率改善与腾空高度衰减率呈显著负相关。结果表明，专项HIIT训练能够显著降低舞蹈啦啦操运动员在疲劳状态下的技术动作衰减率，有效提升抗疲劳爆发力和核心控制稳定性，验证了专项特异性适应原则在难美项群体能训练中的应用价值。
-\end{abstractcn}
-舞蹈啦啦操，专项HIIT，技术动作衰减率，抗疲劳爆发力，SAID原则
-
-% ==================== 英文摘要 ====================
-\cleardoublepage
-\begin{abstracten}
-	This study investigated the effects of a 6-week sport-specific high-intensity interval training program on technical performance in dance cheerleading athletes. A randomized controlled trial was conducted with 20 female collegiate dance cheerleading athletes randomly assigned to an experimental group receiving sport-specific HIIT or a control group performing 400m interval running. Both groups trained for 6 weeks. Outcome measures included jump height, leg angle, displacement distance during C-bar turns, technique decay rate, heart rate recovery, and rating of perceived exertion.
-
-	Post-intervention, the experimental group showed significant reductions in jump height decay rate from 16.8\% to 8.5\%, leg angle decay rate from 7.0\% to 3.3\%, and turn displacement distance from 42.3 cm to 28.5 cm, all significantly better than the control group. Heart rate recovery significantly improved and perceived exertion significantly decreased in the experimental group. Correlation analysis revealed a significant negative correlation between heart rate recovery improvement and jump height decay rate. The results indicate that sport-specific HIIT can significantly reduce technique decay rate in dance cheerleading athletes under fatigue, effectively improving fatigue-resistant explosive power and core control stability, validating the application of the Specific Adaptation to Imposed Demands principle in aesthetic sports training.
-\end{abstracten}
-dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
-
 % ==================== 正文 ====================
-\cleardoublepage
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
@@ -580,7 +564,7 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 
 与啦啦操训练研究对比，已有研究发现专项体能训练可改善啦啦操运动员技术表现，与本研究结论一致。然而，传统专项体能训练多采用核心力量结合爆发力练习的方式，本研究采用专项HIIT模式。从改善幅度来看，本研究转体位移改善率（32.6\%）高于传统训练的改善水平（约15-20\%）。原因可能在于：专项HIIT在高心率状态（$>$90\%最大心率）下反复练习技术动作，更贴近比赛后程的高乳酸生理环境，从而诱导更强的神经肌肉适应。
 
-从机制角度分析，本研究的发现支持 Gandevia（2001）提出的中枢疲劳理论\cite{gandevia2001}。阿拉 C 杠转体是一项对核心稳定性要求极高的动作，核心稳定肌群在快速旋转中需进行高强度的等长收缩以对抗离心力。专项 HIIT 中的波比跳、快速开合跳等动作，迫使核心肌群在心率极高、乳酸堆积严重的环境下持续工作。这种训练模式模拟了比赛后程的生理环境，其适应机制涉及中枢和外周两个层面。在中枢层面，专项 HIIT 有助于在高强度疲劳状态下维持运动皮层兴奋性，改善脊髓运动神经元池募集效率。在外周层面，核心肌群在高酸性环境下的神经募集能力得到增强，减少了疲劳导致的躯干晃动和重心偏移。SAID 原则在本研究中得到验证：特异性动作模式诱导特异性适应，即在高心率状态下执行转体相关肌群的训练，可显著提升疲劳状态下的转体稳定性。
+从机制角度分析，本研究的发现支持 Gandevia（2001）提出的中枢疲劳理论\cite{gandevia2001}。阿拉 C 杠转体是一项对核心稳定性要求极高的动作，核心稳定肌群在快速旋转中需进行高强度的等长收缩以对抗离心力。专项 HIIT 中的波比跳、快速开合跳等动作，迫使核心肌群在心率极高、乳酸堆积严重的环境下持续工作。这种训练模式模拟了比赛后程的生理环境，其适应机制可能包括：（1）中枢适应：在高强度疲劳状态下维持运动皮层兴奋性，改善脊髓运动神经元池募集效率；（2）外周适应：增强核心肌群在高酸性环境下的神经募集能力，减少疲劳导致的躯干晃动和重心偏移。SAID 原则在本研究中得到验证：特异性动作模式诱导特异性适应，即在高心率状态下执行转体相关肌群的训练，可显著提升疲劳状态下的转体稳定性。
 
 综上，专项 HIIT 通过中枢神经适应和外周代谢适应的双重机制改善阿拉 C 杠转体稳定性。建议啦啦操训练将核心稳定性训练与 HIIT 有机结合，而非孤立进行传统核心力量训练。
 
@@ -608,7 +592,7 @@ Gibala 等（2012）的系统综述指出，低容量 HIIT 可诱导线粒体生
 
 与传统训练对比，专项 HIIT 有效解决了\textquotedblleft 体能尚可但动作变形\textquotedblright 的结构性问题。传统 LSD 或 400 米间歇跑无法模拟专项动作模式，导致体能储备难以转化为技术表现优势。专项 HIIT 的时间效率较高（15-20 分钟/次，每周 3 次），适合嵌入常规训练课程。
 
-基于本研究结果，提出以下训练建议：训练频率为每周 3 次，隔天进行；单次时长控制在 15-20 分钟（含热身）；强度监控以心率大于 170 次/分（即大于 90\% HRmax）为标准；动作选择应融合专项技术动作（如屈体分腿跳、波比跳等），避免采用一般性 HIIT 模式。
+基于本研究结果，提出以下训练建议：（1）频率：每周 3 次，隔天进行；（2）时长：15-20 分钟（含热身）；（3）强度监控：心率$>$170 次/分（$>$90\% HRmax）；（4）动作选择：融合专项技术动作（屈体分腿跳、波比跳等），避免一般性 HIIT 模式。
 
 \section{研究局限性}
 

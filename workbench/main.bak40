@@ -113,10 +113,11 @@
         {\heiti\erhao\bfseries 摘\quad 要}
     \end{center}
     \vspace{1em}
-    \par\huawenzhongsong\xiaosi\relax
+    \par\noindent\huawenzhongsong\xiaosi\relax
 }{%
-    \par\vspace{2em}
-    \noindent{\heiti\sihao\bfseries 关键词：}\huawenzhongsong\xiaosi
+    \vspace{2em}
+    \noindent{\heiti\sihao\bfseries 关键词：}
+    \huawenzhongsong\xiaosi
 }
 
 \newenvironment{abstracten}{%
@@ -125,10 +126,11 @@
         {\heiti\erhao\bfseries ABSTRACT}
     \end{center}
     \vspace{1em}
-    \par\xiaosi\relax
+    \par\noindent\xiaosi\relax
 }{%
-    \par\vspace{2em}
-    \noindent{\heiti\sihao\bfseries Keywords:}\xiaosi
+    \vspace{2em}
+    \noindent{\heiti\sihao\bfseries Keywords:}
+    \xiaosi
 }
 
 % ==================== 目录定制 ====================
@@ -181,7 +183,8 @@
 
 	干预后，实验组疲劳状态下腾空高度衰减率从16.8\%降至8.5\%，双腿开度衰减率从7.0\%降至3.3\%，阿拉C杠转体位移距离从42.3 cm降至28.5 cm，均显著优于对照组。实验组心率恢复率显著提升，主观疲劳度显著降低。相关性分析显示，心率恢复率改善与腾空高度衰减率呈显著负相关。结果表明，专项HIIT训练能够显著降低舞蹈啦啦操运动员在疲劳状态下的技术动作衰减率，有效提升抗疲劳爆发力和核心控制稳定性，验证了专项特异性适应原则在难美项群体能训练中的应用价值。
 \end{abstractcn}
-舞蹈啦啦操，专项HIIT，技术动作衰减率，抗疲劳爆发力，SAID原则
+
+关键词：舞蹈啦啦操，专项HIIT，技术动作衰减率，抗疲劳爆发力，SAID原则
 
 % ==================== 英文摘要 ====================
 \cleardoublepage
@@ -190,7 +193,8 @@
 
 	Post-intervention, the experimental group showed significant reductions in jump height decay rate from 16.8\% to 8.5\%, leg angle decay rate from 7.0\% to 3.3\%, and turn displacement distance from 42.3 cm to 28.5 cm, all significantly better than the control group. Heart rate recovery significantly improved and perceived exertion significantly decreased in the experimental group. Correlation analysis revealed a significant negative correlation between heart rate recovery improvement and jump height decay rate. The results indicate that sport-specific HIIT can significantly reduce technique decay rate in dance cheerleading athletes under fatigue, effectively improving fatigue-resistant explosive power and core control stability, validating the application of the Specific Adaptation to Imposed Demands principle in aesthetic sports training.
 \end{abstracten}
-dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
+
+Keywords: dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
 
 % ==================== 正文 ====================
 \cleardoublepage

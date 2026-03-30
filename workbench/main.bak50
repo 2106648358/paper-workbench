@@ -113,7 +113,7 @@
         {\heiti\erhao\bfseries 摘\quad 要}
     \end{center}
     \vspace{1em}
-    \par\huawenzhongsong\xiaosi\relax
+    \par\noindent\huawenzhongsong\xiaosi\relax
 }{%
     \par\vspace{2em}
     \noindent{\heiti\sihao\bfseries 关键词：}\huawenzhongsong\xiaosi
@@ -125,7 +125,7 @@
         {\heiti\erhao\bfseries ABSTRACT}
     \end{center}
     \vspace{1em}
-    \par\xiaosi\relax
+    \par\noindent\xiaosi\relax
 }{%
     \par\vspace{2em}
     \noindent{\heiti\sihao\bfseries Keywords:}\xiaosi
