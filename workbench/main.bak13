@@ -471,15 +471,6 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 	\small 注：$^{*}$表示组内干预前后比较 $P<0.05$；$^{\#}$表示组间干预后比较 $P<0.05$
 \end{table}
 
-如图\ref{fig:data-jump-height}所示，两组受试者干预后疲劳状态下腾空高度的个体数据分布直观呈现了组间显著差异。实验组数据点整体偏高，均值接近 50 cm，而对照组均值仅约 43.5 cm，两组误差棒不重叠，进一步支持统计检验结果。
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.85\textwidth]{figures/data-jump-height.png}
-	\caption{两组屈体分腿跳腾空高度个体数据及均值比较（干预后-疲劳状态）：数据点表示个体受试者，横线表示均值，误差棒表示标准差}
-	\label{fig:data-jump-height}
-\end{figure}
-
 \subsection{技术动作衰减率分析}
 
 技术动作衰减率（Decay Rate）是衡量抗疲劳能力的关键指标，计算公式为：(静息值 - 疲劳值) / 静息值 $\times$ 100\%。
@@ -508,24 +499,6 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 	\par
 	\small 注：衰减率计算以正向指标下降为正，负向指标（位移）上升为正。
 \end{table}
-
-如图\ref{fig:decay-trend}所示，各项技术动作衰减率的干预前后变化趋势清晰呈现。实验组各项指标衰减率均呈明显下降趋势，而对照组变化较小，表明专项 HIIT 训练对技术动作稳定性的显著改善效果。
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=\textwidth]{figures/decay-trend.png}
-	\caption{两组技术动作衰减率变化趋势：实线表示实验组，虚线表示对照组，圆形标记为干预前，方形标记为干预后}
-	\label{fig:decay-trend}
-\end{figure}
-
-如图\ref{fig:group-comparison}所示，干预后各项核心指标的组间对比直观呈现了专项 HIIT 的综合效果。实验组在腾空高度衰减率、位移衰减率及 HRR 改善等指标上均显著优于对照组。
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=\textwidth]{figures/group-comparison.png}
-	\caption{干预后组间核心指标对比：柱状图表示均值，误差棒表示标准差，**表示组间差异显著（$P<0.01$）}
-	\label{fig:group-comparison}
-\end{figure}
 
 \subsection{辅助生理指标}
 
@@ -751,14 +724,14 @@ Gibala 等（2012）的系统综述指出，低容量 HIIT 可诱导线粒体生
 	\renewcommand{\arraystretch}{1.2}
 	\begin{tabular}{clcc}
 		\toprule
-		周次    & 训练内容       & 组数   & 强度控制         \\
+		周次    & 训练内容                                       & 组数   & 强度控制         \\
 		\midrule
 		第 1 周 & 适应期：专项动作循环 & 6 组  & 心率$>$160 次/分 \\
-		第 2 周 & 进阶：增加组数    & 8 组  & 心率$>$165 次/分 \\
-		第 3 周 & 强化：缩短间歇    & 8 组  & 心率$>$170 次/分 \\
-		第 4 周 & 强化：增加组数    & 9 组  & 心率$>$170 次/分 \\
-		第 5 周 & 峰值：最大负荷    & 10 组 & 心率$>$175 次/分 \\
-		第 6 周 & 恢复：减少负荷    & 6 组  & 心率$>$165 次/分 \\
+		第 2 周 & 进阶：增加组数                                    & 8 组  & 心率$>$165 次/分 \\
+		第 3 周 & 强化：缩短间歇                   & 8 组  & 心率$>$170 次/分 \\
+		第 4 周 & 强化：增加组数                                    & 9 组  & 心率$>$170 次/分 \\
+		第 5 周 & 峰值：最大负荷                                    & 10 组 & 心率$>$175 次/分 \\
+		第 6 周 & 恢复：减少负荷                        & 6 组  & 心率$>$165 次/分 \\
 		\bottomrule
 	\end{tabular}
 \end{table}

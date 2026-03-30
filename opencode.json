@@ -7,14 +7,6 @@
       "environment": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
       }
-    },
-    "zotero": {
-      "type": "local",
-      "command": ["C:\\Users\\Lenovohym\\.local\\bin\\zotero-mcp.exe", "serve"],
-      "environment": {
-        "ZOTERO_LOCAL": "true"
-      },
-      "enabled": true
     }
   },
   "permission": {

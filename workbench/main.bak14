@@ -509,24 +509,6 @@ Kinovea 软件通过追踪髋部关节点来精确测量腾空高度，通过量
 	\small 注：衰减率计算以正向指标下降为正，负向指标（位移）上升为正。
 \end{table}
 
-如图\ref{fig:decay-trend}所示，各项技术动作衰减率的干预前后变化趋势清晰呈现。实验组各项指标衰减率均呈明显下降趋势，而对照组变化较小，表明专项 HIIT 训练对技术动作稳定性的显著改善效果。
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=\textwidth]{figures/decay-trend.png}
-	\caption{两组技术动作衰减率变化趋势：实线表示实验组，虚线表示对照组，圆形标记为干预前，方形标记为干预后}
-	\label{fig:decay-trend}
-\end{figure}
-
-如图\ref{fig:group-comparison}所示，干预后各项核心指标的组间对比直观呈现了专项 HIIT 的综合效果。实验组在腾空高度衰减率、位移衰减率及 HRR 改善等指标上均显著优于对照组。
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=\textwidth]{figures/group-comparison.png}
-	\caption{干预后组间核心指标对比：柱状图表示均值，误差棒表示标准差，**表示组间差异显著（$P<0.01$）}
-	\label{fig:group-comparison}
-\end{figure}
-
 \subsection{辅助生理指标}
 
 心率恢复率（HRR）和 RPE 测试结果显示，干预后两组的心肺功能均有所改善，但实验组改善幅度更大。如表\ref{tab:physio-result}所示，实验组干预后心率恢复率从 28.5$\pm$4.2 次/分提升至 35.8$\pm$3.9 次/分。
