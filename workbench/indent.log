@@ -1,7 +1,7 @@
 INFO:  ANSI Code Page: 936
 INFO:  latexindent.exe version 3.24.7, 2025-08-15, a script to indent .tex files
        latexindent.exe lives here: D:/DevTools/Latex/texlive/2026/bin/windows/
-       Mon Mar 30 22:50:53 2026
+       Tue Mar 31 00:15:10 2026
        Filename: D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex
 INFO:  Processing switches:
        -s|--silent: Silent mode active (you have used either -s or --silent)
@@ -70,7 +70,9 @@ INFO:  Backup procedure (-w flag active):
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak50 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak51 already exists, incrementing by 1 (see maxNumberOfBackUps)
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak52 already exists, incrementing by 1 (see maxNumberOfBackUps)
-       Backing up D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex to D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak53...
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak53 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak54 already exists, incrementing by 1 (see maxNumberOfBackUps)
+       Backing up D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex to D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.bak55...
        D:\ProjectResources\wyt-paper\paper-workbench\workbench\main.tex will be overwritten after indentation
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation
