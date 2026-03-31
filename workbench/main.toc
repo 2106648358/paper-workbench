@@ -20,18 +20,18 @@
 \contentsline {section}{\numberline {4}讨论}{17}{section.4}%
 \contentsline {subsection}{\numberline {4.1}专项 HIIT 对阿拉 C 杠转体稳定性的影响}{17}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}专项 HIIT 对屈体分腿跳爆发力的影响}{19}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}技术动作衰减率降低的实践意义}{20}{subsection.4.3}%
-\contentsline {section}{\numberline {5}研究局限性}{21}{section.5}%
-\contentsline {subsection}{\numberline {5.1}样本量与代表性限制}{21}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}训练周期与追踪不足}{21}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}测量方法的局限性}{21}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}未控制变量的影响}{21}{subsection.5.4}%
-\contentsline {section}{\numberline {6}未来研究展望}{22}{section.6}%
-\contentsline {subsection}{\numberline {6.1}训练方案参数优化方向}{22}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{22}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{22}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}长期追踪研究设计}{22}{subsection.6.4}%
-\contentsline {section}{\numberline {7}结论}{22}{section.7}%
-\contentsline {section}{致\hskip 2em\relax 谢}{24}{section.7}%
-\contentsline {section}{参考文献}{25}{section.7}%
-\contentsline {section}{附\hskip 2em\relax 录}{27}{section.7}%
+\contentsline {subsection}{\numberline {4.3}技术动作衰减率降低的实践意义}{21}{subsection.4.3}%
+\contentsline {section}{\numberline {5}研究局限性}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}样本量与代表性限制}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}训练周期与追踪不足}{22}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}测量方法的局限性}{23}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}未控制变量的影响}{23}{subsection.5.4}%
+\contentsline {section}{\numberline {6}未来研究展望}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}训练方案参数优化方向}{23}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{23}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{23}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}长期追踪研究设计}{24}{subsection.6.4}%
+\contentsline {section}{\numberline {7}结论}{24}{section.7}%
+\contentsline {section}{致\hskip 2em\relax 谢}{25}{section.7}%
+\contentsline {section}{参考文献}{26}{section.7}%
+\contentsline {section}{附\hskip 2em\relax 录}{28}{section.7}%
