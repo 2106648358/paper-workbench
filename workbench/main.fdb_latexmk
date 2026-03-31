@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1774953890.53666 "main.aux" "main.bbl" "main" 1774953900.32316 0
+["bibtex main"] 1774954772.59519 "main.aux" "main.bbl" "main" 1774954782.84938 0
   "./references.bib" 1774886719 4832 336955d3978f0c0250c855fe070de900 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/bibtex/bst/base/plain.bst" 1773902045 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1774953892 9909 258d1be89465ec5e6a47b64b5416f59b "xelatex"
+  "main.aux" 1774954774 9909 89971d3ecd347958e3307886c1830d03 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1774953893.4914 "main.xdv" "main.pdf" "main" 1774953900.32771 0
-  "main.xdv" 1774953892 445824 dd7246b1701ac741dce3743c502b8fc1 "xelatex"
+["xdvipdfmx"] 1774954775.81056 "main.xdv" "main.pdf" "main" 1774954782.85499 0
+  "main.xdv" 1774954774 464268 7774fb1f9a7114a1b30681bc84d2db64 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1774953891.00274 "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" "main.xdv" "main" 1774953900.32342 0
+["xelatex"] 1774954773.07838 "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" "main.xdv" "main" 1774954782.84968 0
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1773902630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1773904647 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1773901853 1004 54797486969f23fa377b128694d548df ""
@@ -116,18 +116,18 @@
   "d:/DevTools/Latex/texlive/2026/texmf-dist/web2c/texmf.cnf" 1773901799 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "d:/DevTools/Latex/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1773904902 5949254 b716d934beaa657ee22c9be2e2efa4f0 ""
   "d:/DevTools/Latex/texlive/2026/texmf.cnf" 1773904666 713 e69b156964470283e0530f5060668171 ""
-  "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" 1774953873 70346 908ff2d9462e53b6c4c84f55d8669fce ""
+  "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" 1774954737 73378 61f32b291201145828f6d88f4615a42f ""
   "figures/correlation-heatmap.png" 1774837928 553552 4a78634104218bf883cb9354751f5356 ""
   "figures/data-displacement.png" 1774842635 112215 890b5c4dca035c4150b5d2da2ccd74ea ""
   "figures/data-jump-height.png" 1774842634 120058 29022c3ff377188a29e8b9fac0eb9247 ""
   "figures/decay-trend.png" 1774842635 275731 cf25a98e8c8737cb475f86313f223663 ""
   "figures/group-comparison.png" 1774842635 90888 61e126cccbd597b8dcfb45b9351c2179 ""
   "figures/placeholder-figure-1.png" 1774837928 22128 5fb70849a999d1d1d864558d6111b8e4 ""
-  "main.aux" 1774953892 9909 258d1be89465ec5e6a47b64b5416f59b "xelatex"
-  "main.bbl" 1774953890 3271 dbb8ae19b798ebfc39f88ad1f8524160 "bibtex main"
-  "main.out" 1774953892 4007 9d2e601be0972d196e5b208e43547bd5 "xelatex"
-  "main.tex" 1774953873 70346 908ff2d9462e53b6c4c84f55d8669fce ""
-  "main.toc" 1774953892 3077 e88ba7da967662839a0671272d78c8e1 "xelatex"
+  "main.aux" 1774954774 9909 89971d3ecd347958e3307886c1830d03 "xelatex"
+  "main.bbl" 1774954773 3271 dbb8ae19b798ebfc39f88ad1f8524160 "bibtex main"
+  "main.out" 1774954774 4007 9d2e601be0972d196e5b208e43547bd5 "xelatex"
+  "main.tex" 1774954737 73378 61f32b291201145828f6d88f4615a42f ""
+  "main.toc" 1774954774 3077 f5fb3d61388d5b784b6691350de4e7d5 "xelatex"
   (generated)
   "main.aux"
   "main.log"

@@ -28,10 +28,10 @@
 \contentsline {subsection}{\numberline {5.4}未控制变量的影响}{23}{subsection.5.4}%
 \contentsline {section}{\numberline {6}未来研究展望}{23}{section.6}%
 \contentsline {subsection}{\numberline {6.1}训练方案参数优化方向}{23}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{23}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{23}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{24}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{24}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}长期追踪研究设计}{24}{subsection.6.4}%
 \contentsline {section}{\numberline {7}结论}{24}{section.7}%
-\contentsline {section}{致\hskip 2em\relax 谢}{25}{section.7}%
-\contentsline {section}{参考文献}{26}{section.7}%
-\contentsline {section}{附\hskip 2em\relax 录}{28}{section.7}%
+\contentsline {section}{致\hskip 2em\relax 谢}{26}{section.7}%
+\contentsline {section}{参考文献}{27}{section.7}%
+\contentsline {section}{附\hskip 2em\relax 录}{29}{section.7}%
