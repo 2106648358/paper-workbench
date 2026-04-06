@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.19)  31 MAR 2026 22:35
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.19)  4 APR 2026 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -819,7 +819,7 @@ File: figures/correlation-heatmap.png Graphic file (type bmp)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 24.0pt
-(hyperref)                replaced by space on input line 664.
+(hyperref)                replaced by space on input line 721.
 
 [22
 
@@ -834,12 +834,12 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 24.0pt
-(hyperref)                replaced by space on input line 683.
+(hyperref)                replaced by space on input line 740.
 
 [25
 
 ]
-Overfull \hbox (1.61711pt too wide) in paragraph at lines 751--763
+Overfull \hbox (1.61711pt too wide) in paragraph at lines 808--820
  [][] 
  []
 
@@ -858,12 +858,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9D2E601BE0972D196E5B208E43547BD5;4007.
  ) 
 Here is how much of TeX's memory you used:
- 18035 strings out of 468168
- 376560 string characters out of 5429579
- 832877 words of memory out of 5000000
- 46478 multiletter control sequences out of 15000+600000
+ 18043 strings out of 468168
+ 377102 string characters out of 5429579
+ 832828 words of memory out of 5000000
+ 46486 multiletter control sequences out of 15000+600000
  635216 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,12n,102p,947b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (32 pages, 360768 bytes).
+Output written on main.xdv (32 pages, 366768 bytes).
