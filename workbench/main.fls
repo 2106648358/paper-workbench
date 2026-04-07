@@ -213,6 +213,9 @@ OUTPUT main.toc
 INPUT ./figures/placeholder-figure-1.png
 INPUT ./figures/placeholder-figure-1.png
 INPUT ./figures/placeholder-figure-1.png
+INPUT ./figures/normal-curve.png
+INPUT ./figures/normal-curve.png
+INPUT ./figures/normal-curve.png
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm

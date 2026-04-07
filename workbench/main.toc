@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {2.2}实验法}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}测试法}{6}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}数理统计法}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}实验质量控制}{9}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}实验质量控制}{8}{subsection.2.5}%
 \contentsline {section}{\numberline {3}研究结果}{9}{section.3}%
 \contentsline {subsection}{\numberline {3.1}数据正态性检验}{9}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}受试者基线数据}{10}{subsection.3.2}%
