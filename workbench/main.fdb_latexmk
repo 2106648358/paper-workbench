@@ -1,0 +1,27 @@
+# Fdb version 4
+["pdflatex"] 1775721776.02849 "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" "main.pdf" "main" 1775721776.59912 2
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1773902630 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1773902187 1288 655e228510b4c2a1abe905c368440826 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/generic/iftex/ifluatex.sty" 1773902870 492 1994775aa15b0d1289725a0b1bbc2d4c ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty" 1773902870 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty" 1773902870 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/generic/iftex/ifxetex.sty" 1773902870 488 4565444a3e75e59cb2702dc42e18f482 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/base/article.cls" 1773903015 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/base/size12.clo" 1773903015 8449 8dc66c6c313c8eb2d774af83bca435dd ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty" 1773902685 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty" 1773902737 2671 d9941f4bf4750e9b0603c9a2ec54693b ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1773902998 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty" 1773903001 6558 45786cbbf5684a09ee65aa45a7b367e0 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty" 1773904570 183137 ed372550124703b2b73cbcc0b47cb20f ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty" 1773904600 5686 8a29af4ad9d707b5280738995d050842 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/web2c/texmf.cnf" 1773901799 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1773904780 3636796 7fd135da528f296de7547a5ca1e0e058 ""
+  "d:/DevTools/Latex/texlive/2026/texmf.cnf" 1773904666 713 e69b156964470283e0530f5060668171 ""
+  "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" 1775721753 60475 5a079ad61c5640026bcbca46db5ee3d5 ""
+  "main.aux" 1775721768 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1775721753 60475 5a079ad61c5640026bcbca46db5ee3d5 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
