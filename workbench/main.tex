@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{article}
+﻿\documentclass[a4paper,12pt]{article}
 
 % ==================== 宏包加载 ====================
 \usepackage{geometry}
@@ -41,9 +41,9 @@
 
 % ==================== 字体设置 ====================
 % 定义 CJK 字体族
-\setCJKfamilyfont{zhwsong}{SimSun}
+\setCJKfamilyfont{zhwsong}{SimSun}[BoldFont=SimHei]
 \setCJKfamilyfont{hei}{SimHei}
-\setCJKmainfont{SimSun}[BoldFont=SimHei] 
+\setCJKmainfont{SimSun}[BoldFont=SimHei]
 \setmainfont{Times New Roman}[BoldFont=Times New Roman Bold]
 
 \newcommand{\huawenzhongsong}{\CJKfamily{zhwsong}}
@@ -81,7 +81,9 @@
         \centering
         \vspace*{1cm}
         
-        {\huawenzhongsong\xiaochu\bfseries 武汉体育学院学士学位论文\par}
+        {\huawenzhongsong\xiaochu\bfseries 武汉体育学院\par}
+        \vspace{0.3cm}
+        {\huawenzhongsong\xiaochu\bfseries 学\quad 士\quad 学\quad 位\quad 论\quad 文\par}
         
         \vspace{2cm}
         
@@ -94,11 +96,11 @@
             \centering
             \huawenzhongsong\sanhao
             \begin{tabular}{@{}l@{}}
-            \huawenzhongsong\sanhao 院\qquad 系：#2 \\[1em]
-            \huawenzhongsong\sanhao 专\qquad 业：#3 \\[1em]
-            \huawenzhongsong\sanhao 姓\qquad 名：#4 \\[1em]
-            \huawenzhongsong\sanhao 学\qquad 号：#5 \\[1em]
-            \huawenzhongsong\sanhao 指导教师：#6
+            \huawenzhongsong\sanhao 院\qquad 系　　#2 \\[1em]
+            \huawenzhongsong\sanhao 专\qquad 业　　#3 \\[1em]
+            \huawenzhongsong\sanhao 姓\qquad 名　　#4 \\[1em]
+            \huawenzhongsong\sanhao 学\qquad 号　　#5 \\[1em]
+            \huawenzhongsong\sanhao 指导教师　　#6
             \end{tabular}
         \end{minipage}
         
@@ -113,7 +115,9 @@
 \newenvironment{abstractcn}{%
     \thispagestyle{empty}
     \begin{center}
-        {\heiti\erhao\bfseries 摘\quad 要}
+        {\heiti\erhao\bfseries HIIT 对舞蹈啦啦操运动员专项技术动作稳定性提升的实验研究\par}
+        \vspace{1.5em}
+        {\heiti\xiaoer\bfseries 摘\quad 要}
     \end{center}
     \vspace{1em}
     \par\huawenzhongsong\xiaosi\relax
@@ -125,13 +129,13 @@
 \newenvironment{abstracten}{%
     \thispagestyle{empty}
     \begin{center}
-        {\heiti\erhao\bfseries ABSTRACT}
+        {\normalfont\xiaoer\bfseries ABSTRACT}
     \end{center}
     \vspace{1em}
-    \par\xiaosi\relax
+    \par\normalfont\xiaosi\relax
 }{%
     \par\vspace{2em}
-    \noindent{\heiti\sihao\bfseries Keywords:}\xiaosi
+    \noindent{\normalfont\sihao\bfseries Keywords:}\normalfont\xiaosi
 }
 
 % ==================== 目录定制 ====================
@@ -191,14 +195,14 @@
 	。此外，实验组心率恢复率显著提升且与动作衰减率呈显著负相关，主观疲劳度明显降低，表明专
 	项HIIT训练能显著降低疲劳对技术动作的影响，有效提升运动员的抗疲劳爆发力与核心稳定性。
 \end{abstractcn}
-舞蹈啦啦操，专项HIIT，技术动作衰减率，抗疲劳爆发力，SAID原则
+舞蹈啦啦操；专项HIIT；\quad 技术动作衰减率；\quad 抗疲劳爆发力；\quad SAID原则
 
 % ==================== 英文摘要 ====================
 \cleardoublepage
 \begin{abstracten}
 	This study purposed to investigate the effects of a 6-week sport-specific HIIT program on the technical stability of dance cheerleaders compared to traditional interval running. Its significance lies in validating the principle of specificity for aesthetic sports, providing a scientific basis for enhancing core control and explosive power under fatigue. Methods involved a randomized controlled trial with 20 female college athletes divided into an experimental group sport-specific HIIT and a control group 400m interval runs; key metrics included jump height, leg split angles, turn displacement, technical decrement rates, heart rate recovery, and subjective fatigue. The conclusion reveals that the experimental group achieved significantly lower technical decrement rates and displacement compared to the control group. The marked improvement in heart rate recovery and reduction in subjective fatigue demonstrate that sport-specific HIIT effectively mitigates fatigue-induced technical decline while enhancing explosive power and core stability.
 \end{abstracten}
-dance cheerleading, sport-specific HIIT, technique decay rate, fatigue-resistant explosive power, SAID principle
+dance cheerleading; \quad sport-specific HIIT; \quad technique decay rate; \quad fatigue-resistant explosive power; \quad SAID principle
 
 % ==================== 正文 ====================
 \cleardoublepage
