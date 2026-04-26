@@ -141,11 +141,14 @@
 % ==================== 目录定制 ====================
 % 目录设置在 \tableofcontents 之前立即执行
 \newcommand{\setupContents}{%
-\renewcommand{\contentsname}{\heiti\xiaoer\bfseries 目\quad 录}
-\renewcommand{\cftsecfont}{\huawenzhongsong\xiaosi}
-\renewcommand{\cftsubsecfont}{\huawenzhongsong\xiaosi}
-\renewcommand{\cftdotsep}{4.5}
-\renewcommand{\cftsecpagefont}{\normalfont\xiaosi}
+    \renewcommand{\contentsname}{\heiti\xiaoer\bfseries 目\quad 录}
+    \renewcommand{\cftsecfont}{\huawenzhongsong\xiaosi\bfseries}
+    \renewcommand{\cftsubsecfont}{\huawenzhongsong\xiaosi}
+    \renewcommand{\cftsubsubsecfont}{\huawenzhongsong\xiaosi}
+    \renewcommand{\cftdotsep}{4.5}
+    \renewcommand{\cftsecpagefont}{\normalfont\xiaosi}
+    \setlength{\cftsubsecindent}{0em}
+    \setlength{\cftsubsubsecindent}{0em}
 }
 
 % ==================== 正文标题格式 ====================
@@ -195,7 +198,7 @@
 	。此外，实验组心率恢复率显著提升且与动作衰减率呈显著负相关，主观疲劳度明显降低，表明专
 	项HIIT训练能显著降低疲劳对技术动作的影响，有效提升运动员的抗疲劳爆发力与核心稳定性。
 \end{abstractcn}
-舞蹈啦啦操；专项HIIT；\quad 技术动作衰减率；\quad 抗疲劳爆发力；\quad SAID原则
+舞蹈啦啦操；专项HIIT；技术动作衰减率； 抗疲劳爆发力； SAID原则
 
 % ==================== 英文摘要 ====================
 \cleardoublepage
