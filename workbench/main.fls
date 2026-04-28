@@ -239,6 +239,9 @@ INPUT ./figures/group-comparison.png
 INPUT ./figures/correlation-heatmap.png
 INPUT ./figures/correlation-heatmap.png
 INPUT ./figures/correlation-heatmap.png
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm

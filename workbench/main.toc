@@ -9,30 +9,30 @@
 \contentsline {subsection}{\numberline {2.3}实验法}{4}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}测试法}{5}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}数理统计法}{6}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}实验质量控制}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.6}实验质量控制}{8}{subsection.2.6}%
 \contentsline {section}{\numberline {3}研究结果}{8}{section.3}%
 \contentsline {subsection}{\numberline {3.1}数据正态性检验}{8}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}受试者基线数据}{9}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}阿拉 C 杠转体测试结果}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}阿拉 C 杠转体测试结果}{10}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}屈体分腿跳测试结果}{11}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}技术动作衰减率分析}{13}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}辅助生理指标}{15}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}相关性分析}{15}{subsection.3.7}%
-\contentsline {section}{\numberline {4}讨论}{16}{section.4}%
-\contentsline {subsection}{\numberline {4.1}专项 HIIT 对阿拉 C 杠转体稳定性的影响}{16}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}专项 HIIT 对屈体分腿跳爆发力的影响}{17}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}技术动作衰减率降低的实践意义}{18}{subsection.4.3}%
-\contentsline {section}{\numberline {5}研究局限性}{18}{section.5}%
-\contentsline {subsection}{\numberline {5.1}样本量与代表性限制}{18}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}训练周期与追踪不足}{18}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}测量方法的局限性}{19}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}未控制变量的影响}{19}{subsection.5.4}%
-\contentsline {section}{\numberline {6}未来研究展望}{19}{section.6}%
-\contentsline {subsection}{\numberline {6.1}训练方案参数优化方向}{19}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{19}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{20}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}长期追踪研究设计}{20}{subsection.6.4}%
-\contentsline {section}{\numberline {7}结论}{20}{section.7}%
-\contentsline {section}{致\hskip 2em\relax 谢}{21}{section.7}%
-\contentsline {section}{参考文献}{22}{section.7}%
-\contentsline {section}{附\hskip 2em\relax 录}{24}{section.7}%
+\contentsline {subsection}{\numberline {3.7}相关性分析}{16}{subsection.3.7}%
+\contentsline {section}{\numberline {4}讨论}{17}{section.4}%
+\contentsline {subsection}{\numberline {4.1}专项 HIIT 对阿拉 C 杠转体稳定性的影响}{17}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}专项 HIIT 对屈体分腿跳爆发力的影响}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}技术动作衰减率降低的实践意义}{19}{subsection.4.3}%
+\contentsline {section}{\numberline {5}研究局限性}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}样本量与代表性限制}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}训练周期与追踪不足}{19}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}测量方法的局限性}{20}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}未控制变量的影响}{20}{subsection.5.4}%
+\contentsline {section}{\numberline {6}未来研究展望}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}训练方案参数优化方向}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}多维度指标联合分析}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}跨项目推广验证}{21}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}长期追踪研究设计}{21}{subsection.6.4}%
+\contentsline {section}{\numberline {7}结论}{21}{section.7}%
+\contentsline {section}{致\hskip 2em\relax 谢}{23}{section.7}%
+\contentsline {section}{参考文献}{24}{section.7}%
+\contentsline {section}{附\hskip 2em\relax 录}{26}{section.7}%
