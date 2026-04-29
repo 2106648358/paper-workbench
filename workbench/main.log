@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.19)  29 APR 2026 00:44
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.19)  29 APR 2026 01:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,22 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 181.
  (d:/DevTools/Latex/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 181.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 181.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 181.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 181.
+
+[1
 
 ] (./main.toc [1
 
@@ -844,18 +859,22 @@ L3 programming layer <2022/08/05>
  ***********
 
 
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FD1E85059F16C3545F59AD2ED7F47D84;4105.
  ) 
 Here is how much of TeX's memory you used:
- 18087 strings out of 468168
- 376863 string characters out of 5429579
- 836290 words of memory out of 5000000
- 46525 multiletter control sequences out of 15000+600000
- 636939 words of font info for 126 fonts, out of 8000000 for 9000
+ 18106 strings out of 468168
+ 377221 string characters out of 5429579
+ 836425 words of memory out of 5000000
+ 46542 multiletter control sequences out of 15000+600000
+ 639125 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,13n,102p,832b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (33 pages, 380312 bytes).
+Output written on main.xdv (33 pages, 380352 bytes).

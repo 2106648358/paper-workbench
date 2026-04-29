@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1777394682.28737 "main.xdv" "main.pdf" "main" 1777394690.77245 0
-  "main.xdv" 1777394682 380312 a2609d1976b86fb12f80bf7946bad97b "xelatex"
+["xdvipdfmx"] 1777396419.46964 "main.xdv" "main.pdf" "main" 1777396427.3025 0
+  "main.xdv" 1777396419 380352 5e6cc8633d4d8722bf05c2469e766158 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1777394680.3094 "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" "main.xdv" "main" 1777394690.76753 0
+["xelatex"] 1777396417.81751 "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" "main.xdv" "main" 1777396427.29625 0
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1773902630 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1773904647 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1773901853 1004 54797486969f23fa377b128694d548df ""
@@ -22,6 +22,7 @@
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1773902187 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1773902187 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1773902187 1288 655e228510b4c2a1abe905c368440826 ""
+  "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1773902187 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1773902187 1300 b62933e007d01cfd073f79b963c01526 ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1773902187 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "d:/DevTools/Latex/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1773902187 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -111,7 +112,7 @@
   "d:/DevTools/Latex/texlive/2026/texmf-dist/web2c/texmf.cnf" 1773901799 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "d:/DevTools/Latex/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1773904902 5949254 b716d934beaa657ee22c9be2e2efa4f0 ""
   "d:/DevTools/Latex/texlive/2026/texmf.cnf" 1773904666 713 e69b156964470283e0530f5060668171 ""
-  "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" 1777394591 64763 fe9d627f257f3ac4a8be619c4999b01e ""
+  "d:/ProjectResources/wyt-paper/paper-workbench/workbench/main.tex" 1777396402 65110 95ee03ad8a4076913a25526349b6163c ""
   "figures/correlation-heatmap.png" 1775723634 553552 4a78634104218bf883cb9354751f5356 ""
   "figures/data-displacement.png" 1775723634 112215 890b5c4dca035c4150b5d2da2ccd74ea ""
   "figures/data-jump-height.png" 1775723634 120058 29022c3ff377188a29e8b9fac0eb9247 ""
@@ -119,10 +120,10 @@
   "figures/group-comparison.png" 1775723634 90888 61e126cccbd597b8dcfb45b9351c2179 ""
   "figures/normal-curve.png" 1775723634 247809 e52f31e782d619bda3777f20e4d05ede ""
   "figures/placeholder-figure-1.png" 1775723634 22128 5fb70849a999d1d1d864558d6111b8e4 ""
-  "main.aux" 1777394682 9953 135f56e9520308bf644ade557e2c3179 "xelatex"
-  "main.out" 1777394682 4105 fd1e85059f16c3545f59ad2ed7f47d84 "xelatex"
-  "main.tex" 1777394591 64763 fe9d627f257f3ac4a8be619c4999b01e ""
-  "main.toc" 1777394682 3158 de8ba1a98a02cc2f53c1d9da0065d436 "xelatex"
+  "main.aux" 1777396419 9953 135f56e9520308bf644ade557e2c3179 "xelatex"
+  "main.out" 1777396419 4105 fd1e85059f16c3545f59ad2ed7f47d84 "xelatex"
+  "main.tex" 1777396402 65110 95ee03ad8a4076913a25526349b6163c ""
+  "main.toc" 1777396419 3158 de8ba1a98a02cc2f53c1d9da0065d436 "xelatex"
   (generated)
   "main.aux"
   "main.log"
